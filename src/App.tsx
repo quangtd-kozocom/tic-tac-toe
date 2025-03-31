@@ -1,8 +1,7 @@
-import React from 'react';
-import Demo from './pages/Demo';
+import TicTacToe from './pages/TicTacToe';
 
 function App() {
-  return <Demo />;
+  return <TicTacToe />;
 }
 
 export default App;
